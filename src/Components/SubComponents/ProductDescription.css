@@ -1,0 +1,12 @@
+
+
+button{
+    padding: 10px;
+    color: white;
+    border-radius: 10px;
+    background-image: linear-gradient(to bottom right, #fcd34d, #ef4444, #ec4899);
+}
+.modal-header{
+    background-image: linear-gradient(to bottom right, #fcd34d, #ef4444, #ec4899);
+    
+}
